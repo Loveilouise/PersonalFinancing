@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Personal Financing</string>
+    <string-array name="category">
+        <item>工资</item>
+        <item>兼职</item>
+        <item>股票</item>
+        <item>基金</item>
+        <item>分红</item>
+        <item>利息</item>
+        <item>奖金</item>
+        <item>补贴</item>
+        <item>礼金</item>
+        <item>租金</item>
+        <item>应收款</item>
+        <item>销售款</item>
+        <item>报销款</item>
+        <item>其他</item>
+    </string-array>
+</resources>
